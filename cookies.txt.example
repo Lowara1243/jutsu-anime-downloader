@@ -1,0 +1,11 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+.jut.su	TRUE	/	FALSE	1773327070	player[wap_player_res]	1080
+.jut.su	TRUE	/	FALSE	1773327087	jcon[dm]	1
+.jut.su	TRUE	/	FALSE	1785344772	player[anime_last]	1150.0.0.9.32876..1222.0.0.3.33938
+.jut.su	TRUE	/	FALSE	1773329238	player[currenttime]	[.32876|1324.]
+.jut.su	TRUE	/	FALSE	1776231593	player[anime_next]	32929.1150.0.0.10.0.1420
+.jut.su	TRUE	/	FALSE	1785379328	player[anime_next_check]	1115_33942
+.jut.su	TRUE	/	FALSE	0	PHPSESSID	i34i0f0gcbevtf7vpv01u47db7
